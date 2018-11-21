@@ -1,4 +1,4 @@
-### Level 1 완주하지 못한 선수
+### Level 1 완주하지 못한 선수 ([code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_1_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.py))
 ```
 수많은 마라톤 선수들이 마라톤에 참여하였습니다. 단 한 명의 선수를 제외하고는 모든 선수가 마라톤을 완주하였습니다.
 마라톤에 참여한 선수들의 이름이 담긴 배열 participant와 완주한 선수들의 이름이 담긴 배열 completion이 주어질 때, 
@@ -27,3 +27,5 @@ participant | completion | return |
 
 * 예제 3
   * **mislav**는 참여자 명단에는 두 명이 있지만, 완주자 명단에는 한 명밖에 없기 때문에 한명은 완주하지 못했습니다.
+
+------
