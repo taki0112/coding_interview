@@ -1,5 +1,5 @@
 # 해시
-* Level 1 완주하지 못한 선수
+* [Level 1 완주하지 못한 선수](https://github.com/taki0112/coding_practice/edit/master/src/%ED%95%B4%EC%8B%9C/README.md#L9)
 * Level 2 전화번호 목록
 * Level 2 위장
 * Level 3 베스트앨범
