@@ -1,24 +1,24 @@
-### Level 1 완주하지 못한 선수 ([code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_1_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.py))
+## Level 1 완주하지 못한 선수 ([code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_1_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.py))
 ```
 수많은 마라톤 선수들이 마라톤에 참여하였습니다. 단 한 명의 선수를 제외하고는 모든 선수가 마라톤을 완주하였습니다.
 마라톤에 참여한 선수들의 이름이 담긴 배열 participant와 완주한 선수들의 이름이 담긴 배열 completion이 주어질 때, 
 완주하지 못한 선수의 이름을 return 하도록 solution 함수를 작성해주세요.
 ```
 
-#### 제한사항
+### 제한사항
 * 마라톤 경기에 참여한 선수의 수는 1명 이상 100,000명 이하입니다.
 * completion의 길이는 participant의 길이보다 1 작습니다.
 * 참가자의 이름은 1개 이상 20개 이하의 알파벳 소문자로 이루어져 있습니다.
 * 참가자 중에는 동명이인이 있을 수 있습니다.
 
-#### 입출력 예
+### 입출력 예
 participant | completion | return |
 :---: | :---: | :---: |
 ["leo", "kiki", "eden"] | ["eden", "kiki"] | "leo"
 ["marina", "josipa", "nikola", "vinko", "filipa"] | ["josipa", "filipa", "marina", "nikola"] | "vinko"
 ["mislav", "stanko", "mislav", "ana"] | ["stanko", "ana", "mislav"] | "mislav"
 
-#### 입출력 예 설명
+### 입출력 예 설명
 * 예제 1
   * **leo**는 참여자 명단에는 있지만, 완주자 명단에는 없기 때문에 완주하지 못했습니다.
 
@@ -30,7 +30,7 @@ participant | completion | return |
 
 ---
 
-### Level 2 전화번호 목록 ([code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_2_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%B6%80.py))
+## Level 2 전화번호 목록 ([code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_2_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%B6%80.py))
 ```
 전화번호부에 적힌 전화번호 중, 한 번호가 다른 번호의 접두어인 경우가 있는지 확인하려 합니다.
 전화번호가 다음과 같을 경우, 구조대 전화번호는 영석이의 전화번호의 접두사입니다.
@@ -43,18 +43,18 @@ participant | completion | return |
 어떤 번호가 다른 번호의 접두어인 경우가 있으면 false를 그렇지 않으면 true를 return 하도록 solution 함수를 작성해주세요.
 ```
 
-#### 제한 사항
+### 제한 사항
 * phone_book의 길이는 1 이상 1,000,000 이하입니다.
 * 각 전화번호의 길이는 1 이상 20 이하입니다.
 
-#### 입출력 예제
+### 입출력 예제
 phone_book | return |
 :---: | :---: |
 ["119", "97674223", "1195524421"] | false
 ["123","456","789"] | true
 ["12","123","1235","567","88"] | false
 
-#### 입출력 예 설명
+### 입출력 예 설명
 * 입출력 예 1
   * 앞에서 설명한 예와 같습니다.
 
@@ -66,7 +66,7 @@ phone_book | return |
   
 ---
 
-### Level 2 위장 ([code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_2_%EC%9C%84%EC%9E%A5.py))
+## Level 2 위장 ([code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_2_%EC%9C%84%EC%9E%A5.py))
 ```
 스파이들은 매일 다른 옷을 조합하여 입어 자신을 위장합니다.
 
@@ -81,7 +81,7 @@ phone_book | return |
 스파이가 가진 의상들이 담긴 2차원 배열 clothes가 주어질 때 서로 다른 옷의 조합의 수를 return 하도록 solution 함수를 작성해주세요.
 ```
 
-#### 제한사항
+### 제한사항
 * clothes의 각 행은 [의상의 이름, 의상의 종류]로 이루어져 있습니다.
 * 스파이가 가진 의상의 수는 1개 이상 30개 이하입니다.
 * 같은 이름을 가진 의상은 존재하지 않습니다.
@@ -89,7 +89,7 @@ phone_book | return |
 * 모든 문자열의 길이는 1 이상 20 이하인 자연수이고 알파벳 소문자 또는 '_' 로만 이루어져 있습니다.
 * 스파이는 하루에 최소 한 개의 의상은 입습니다.
   
-#### 입출력 예
+### 입출력 예
 * 예제 1
   * headgear에 해당하는 의상이 yellow_hat, green_turban이고 eyewear에 해당하는 의상이 blue_sunglasses이므로 아래와 같이 5개의 조합이 가능합니다.
   ```
@@ -110,7 +110,7 @@ phone_book | return |
 
 ---
 
-### Level 3 베스트앨범 ([code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_3_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py))
+## Level 3 베스트앨범 ([code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_3_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py))
 ```
 스트리밍 사이트에서 장르 별로 가장 많이 재생된 노래를 두 개씩 모아 베스트 앨범을 출시하려 합니다. 노래는 고유 번호로 구분하며, 노래를 수록하는 기준은 다음과 같습니다.
 
@@ -121,7 +121,7 @@ phone_book | return |
 노래의 장르를 나타내는 문자열 배열 genres와 노래별 재생 횟수를 나타내는 정수 배열 plays가 주어질 때, 베스트 앨범에 들어갈 노래의 고유 번호를 순서대로 return 하도록 solution 함수를 완성하세요.
 ```
 
-#### 제한사항
+### 제한사항
 * genres[i]는 고유번호가 i인 노래의 장르입니다.
 * plays[i]는 고유번호가 i인 노래가 재생된 횟수입니다.
 * genres와 plays의 길이는 같으며, 이는 1 이상 10,000 이하입니다.
@@ -129,12 +129,12 @@ phone_book | return |
 * 장르에 속한 곡이 하나라면, 하나의 곡만 선택합니다.
 * 모든 장르는 재생된 횟수가 다릅니다.
 
-#### 입출력 예
+### 입출력 예
 genres | plays | return |
 :---: | :---: | :---: |
 ["classic", "pop", "classic", "classic", "pop"] | [500, 600, 150, 800, 2500] | [4, 1, 3, 0]
 
-#### 입출력 예 설명
+### 입출력 예 설명
 * classic 장르는 1,450회 재생되었으며, classic 노래는 다음과 같습니다.
   * 고유 번호 3: 800회 재생
   * 고유 번호 0: 500회 재생
