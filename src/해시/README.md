@@ -1,8 +1,8 @@
 # 해시
 * [Level 1 완주하지 못한 선수](#Level-1-완주하지-못한-선수)
-* Level 2 전화번호 목록
-* Level 2 위장
-* Level 3 베스트앨범
+* [Level 2 전화번호 목록](#Level-2-전화번호-목록)
+* [Level 2 위장](Level-2-위장)
+* [Level 3 베스트앨범](Level-3-베스트앨범)
 
 ---
 
@@ -73,7 +73,7 @@ phone_book | return |
 * 입출력 예 3
   * 첫 번째 전화번호, “12”가 두 번째 전화번호 “123”의 접두사입니다. 따라서 답은 false입니다.
 
-### [코드](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_2_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%B6%80.py)
+### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_2_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%B6%80.py)
 ---
 
 ## Level 2 위장
@@ -117,7 +117,7 @@ phone_book | return |
   2. blue_sunglasses
   3. smoky_makeup
   ```
-### [코드](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_2_%EC%9C%84%EC%9E%A5.py)
+### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_2_%EC%9C%84%EC%9E%A5.py)
 
 ---
 
@@ -156,4 +156,4 @@ genres | plays | return |
   * 고유 번호 1: 600회 재생
   * 따라서 pop 장르의 [4, 1]번 노래를 먼저, classic 장르의 [3, 0]번 노래를 그다음에 수록합니다.
   
-### [코드](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_3_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py)
+### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_3_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py)
