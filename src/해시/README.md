@@ -36,7 +36,7 @@ participant | completion | return |
 * 예제 3
   * **mislav**는 참여자 명단에는 두 명이 있지만, 완주자 명단에는 한 명밖에 없기 때문에 한명은 완주하지 못했습니다.
 
-### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_1_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.py)
+### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_1_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.py) / [위로](#해시)
 ---
 
 ## Level 2 전화번호 목록
@@ -73,7 +73,7 @@ phone_book | return |
 * 입출력 예 3
   * 첫 번째 전화번호, “12”가 두 번째 전화번호 “123”의 접두사입니다. 따라서 답은 false입니다.
 
-### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_2_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%B6%80.py)
+### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_2_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%B6%80.py) / [위로](#해시)
 ---
 
 ## Level 2 위장
@@ -117,7 +117,7 @@ phone_book | return |
   2. blue_sunglasses
   3. smoky_makeup
   ```
-### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_2_%EC%9C%84%EC%9E%A5.py)
+### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_2_%EC%9C%84%EC%9E%A5.py) / [위로](#해시)
 
 ---
 
@@ -156,4 +156,4 @@ genres | plays | return |
   * 고유 번호 1: 600회 재생
   * 따라서 pop 장르의 [4, 1]번 노래를 먼저, classic 장르의 [3, 0]번 노래를 그다음에 수록합니다.
   
-### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_3_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py)
+### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_3_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py) / [위로](#해시)
