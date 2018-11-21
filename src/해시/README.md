@@ -110,7 +110,7 @@ phone_book | return |
 
 ---
 
-### Level 3 베스트앨범
+### Level 3 베스트앨범 ([code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%95%B4%EC%8B%9C/Level_3_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py))
 ```
 스트리밍 사이트에서 장르 별로 가장 많이 재생된 노래를 두 개씩 모아 베스트 앨범을 출시하려 합니다. 노래는 고유 번호로 구분하며, 노래를 수록하는 기준은 다음과 같습니다.
 
