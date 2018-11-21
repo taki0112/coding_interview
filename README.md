@@ -1,8 +1,16 @@
 # coding_practice
 Programmers coding practice in Korean
 
-## List
+## Problems
 * [해시](https://github.com/taki0112/coding_practice/tree/master/src/%ED%95%B4%EC%8B%9C)
+* 스택/큐
+* 힙(Heap)
+* 정렬
+* 완전탐색
+* 탐욕법(Greedy)
+* 동적계획법(Dynamic Programming)
+* 깊이/너비 우선 탐색(DFS/BFS)
+* 
 
 ## Author
 Junho Kim
