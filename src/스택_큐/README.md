@@ -1,5 +1,5 @@
 # 스택/큐
-* [Level 2 쇠막대기](#Level-1-완주하지-못한-선수)
+* [Level 2 쇠막대기](#Level-2-쇠막대기)
 
 ---
 
@@ -33,3 +33,17 @@
 잘린 쇠막대기 조각의 총 개수를 return 하도록 solution 함수를 작성해주세요.
 
 ```
+
+### 제한사항
+* arrangement의 길이는 최대 100,000입니다.
+* arrangement의 여는 괄호와 닫는 괄호는 항상 쌍을 이룹니다.
+
+### 입출력 예
+arrangement | return |
+:---: | :---: |
+"()(((()())(())()))(())" | 17
+
+### 입출력 예 설명
+문제에 나온 예와 같습니다.
+
+### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%EC%8A%A4%ED%83%9D_%ED%81%90/%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0.py) / [위로](#스택/큐)
