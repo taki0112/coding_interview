@@ -13,7 +13,7 @@ Programmers coding practice in Korean
 * 이분탐색
 
 ## Source
-* [프로그래머스](https://programmers.co.kr/)
+* [프로그래머스](https://programmers.co.kr/learn/challenges)
 
 ## Author
 Junho Kim
