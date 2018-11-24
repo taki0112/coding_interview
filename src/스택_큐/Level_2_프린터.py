@@ -3,7 +3,7 @@ def solution(priorities, location):
     search, c = sorted(priorities, reverse=True), 0
     while True:
         for i, priority in enumerate(priorities):
-            s = search[c] # 9
+            s = search[c]
             if priority == s:
                 c += 1
                 answer += 1
