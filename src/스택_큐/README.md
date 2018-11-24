@@ -1,4 +1,4 @@
-# 스택/큐
+# 스택_큐
 * [Level 2 쇠막대기](#Level-2-쇠막대기)
 * [Level 2 프린터](#Level-2-프린터)
 
@@ -46,7 +46,7 @@ arrangement | return |
 ### 입출력 예 설명
 문제에 나온 예와 같습니다.
 
-### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%EC%8A%A4%ED%83%9D_%ED%81%90/%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0.py) / [위로](#스택/큐)
+### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%EC%8A%A4%ED%83%9D_%ED%81%90/%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0.py) / [위로](#스택_큐)
 
 ---
 
@@ -85,4 +85,4 @@ priorities | location | return |
 * 예제 2
   * 6개의 문서(A, B, C, D, E, F)가 인쇄 대기목록에 있고 중요도가 1 1 9 1 1 1 이므로 C D E F A B 순으로 인쇄합니다.
   
-### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%EC%8A%A4%ED%83%9D_%ED%81%90/%ED%94%84%EB%A6%B0%ED%84%B0.py) / [위로](#스택/큐)
+### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%EC%8A%A4%ED%83%9D_%ED%81%90/%ED%94%84%EB%A6%B0%ED%84%B0.py) / [위로](#스택_큐)
