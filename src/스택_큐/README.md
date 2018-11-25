@@ -2,6 +2,7 @@
 * [Level 2 쇠막대기](#Level-2-쇠막대기)
 * [Level 2 프린터](#Level-2-프린터)
 * [Level 2 다리를 지나는 트럭](#Level-2-다리를-지나는-트럭)
+* [Level 2 기능개발](#Level-2-기능개발)
 
 ---
 
@@ -177,4 +178,22 @@ bridge_length | weight | truck_weights | return
 100 | 100 | [10,10,10,10,10,10,10,10,10,10] | 110
   
 ### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%EC%8A%A4%ED%83%9D_%ED%81%90/Level_2_%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.py) / [위로](#스택_큐)
+
+---
+
+## Level 2 기능개발
+```
+프로그래머스 팀에서는 기능 개선 작업을 수행 중입니다. 각 기능은 진도가 100%일 때 서비스에 반영할 수 있습니다.
+
+또, 각 기능의 개발속도는 모두 다르기 때문에 뒤에 있는 기능이 앞에 있는 기능보다 먼저 개발될 수 있고, 
+이때 뒤에 있는 기능은 앞에 있는 기능이 배포될 때 함께 배포됩니다.
+
+먼저 배포되어야 하는 순서대로 작업의 진도가 적힌 정수 배열 progresses와 
+각 작업의 개발 속도가 적힌 정수 배열 speeds가 
+주어질 각 배포마다 몇 개의 기능이 배포되는지를 return 하도록 solution 함수를 완성하세요.
+```
+
+### 
+
+### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%EC%8A%A4%ED%83%9D_%ED%81%90/Level_2_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py) / [위로](#스택_큐)
 
