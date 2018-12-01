@@ -1,4 +1,4 @@
-# 힙
+# 힙_Heap
 * [Level 2 더 맵게](#Level-2-더-맵게)
 
 ---
@@ -39,6 +39,6 @@ scoville | K | return |
 
 * 모든 음식의 스코빌 지수가 7 이상이 되었고 이때 섞은 횟수는 2회입니다.
 
-### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%9E%99(Heap)/Level_2_%EB%8D%94%20%EB%A7%B5%EA%B2%8C.py) / [위로](#힙)
+### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%9E%99(Heap)/Level_2_%EB%8D%94%20%EB%A7%B5%EA%B2%8C.py) / [위로](#힙_Heap)
 
 ---
