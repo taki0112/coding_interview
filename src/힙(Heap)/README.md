@@ -1,4 +1,4 @@
-# 힙(Heap)
+# 힙
 * [Level 2 더 맵게](#Level-2-더-맵게)
 
 ---
@@ -24,7 +24,7 @@ Leo가 가진 음식의 스코빌 지수를 담은 배열 scoville과 원하는 
 * 모든 음식의 스코빌 지수를 K 이상으로 만들 수 없는 경우에는 -1을 return 합니다.
 
 ### 입출력 예
-genres | plays | return |
+scoville | K | return |
 :---: | :---: | :---: |
 [1, 2, 3, 9, 10, 12] | 7 | 2
 
@@ -39,6 +39,6 @@ genres | plays | return |
 
 * 모든 음식의 스코빌 지수가 7 이상이 되었고 이때 섞은 횟수는 2회입니다.
 
-### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%9E%99(Heap)/Level_2_%EB%8D%94%20%EB%A7%B5%EA%B2%8C.py) / [위로](#힙(Heap))
+### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%ED%9E%99(Heap)/Level_2_%EB%8D%94%20%EB%A7%B5%EA%B2%8C.py) / [위로](#힙)
 
 ---
