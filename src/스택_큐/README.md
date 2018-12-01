@@ -4,6 +4,7 @@
 * [Level 2 다리를 지나는 트럭](#Level-2-다리를-지나는-트럭)
 * [Level 2 기능개발](#Level-2-기능개발)
 * [Level 2 탑](#Level-2-탑)
+* [Level_2_주식가격](#Level-2-주식가격)
 
 ---
 
@@ -284,3 +285,5 @@ prices | return |
 * 2초 시점의 ₩501은 1초간 가격을 유지하고, 3초 시점에 ₩470으로 떨어졌습니다.
 * 3초 시점의 ₩470은 최종 시점까지 총 1초간 가격이 떨어지지 않았습니다.
 * 4초 시점의 ₩489은 최종 시점까지 총 0초간 가격이 떨어지지 않았습니다.
+
+### [Code](https://github.com/taki0112/coding_practice/blob/master/src/%EC%8A%A4%ED%83%9D_%ED%81%90/Level_2_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.py) / [위로](#스택_큐)
