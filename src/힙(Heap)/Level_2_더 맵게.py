@@ -4,7 +4,7 @@ def solution(scoville, K):
     answer = 0
     heapq.heapify(scoville)
 
-    while(True):
+    while True :
         if scoville[0] >= K:
             return answer
         elif len(scoville) == 1:
