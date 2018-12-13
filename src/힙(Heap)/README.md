@@ -100,6 +100,7 @@ stock | dates | supplies | k | result |
 - 0ms 시점에 3ms가 소요되는 A작업 요청
 - 1ms 시점에 9ms가 소요되는 B작업 요청
 - 2ms 시점에 6ms가 소요되는 C작업 요청
+
 와 같은 요청이 들어왔습니다. 이를 그림으로 표현하면 아래와 같습니다.
 ```
 ![example_1](https://grepp-programmers.s3.amazonaws.com/files/production/b68eb5cec6/38dc6a53-2d21-4c72-90ac-f059729c51d5.png)
