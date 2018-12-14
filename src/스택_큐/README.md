@@ -4,7 +4,7 @@
 * [Level 2 다리를 지나는 트럭](#Level-2-다리를-지나는-트럭)
 * [Level 2 기능개발](#Level-2-기능개발)
 * [Level 2 탑](#Level-2-탑)
-* [Level_2_주식가격](#Level-2-주식가격)
+* [Level 2 주식가격](#Level-2-주식가격)
 
 ---
 
