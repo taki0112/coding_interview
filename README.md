@@ -13,6 +13,8 @@ Programmers coding practice in Korean (***2018.11.21*** ~ )
 * 깊이/너비 우선 탐색(DFS/BFS)
 * 이분탐색
 
+### Senior
+
 ## Source
 * [프로그래머스](https://programmers.co.kr/learn/challenges)
 
