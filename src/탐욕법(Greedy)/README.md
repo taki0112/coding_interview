@@ -77,7 +77,7 @@ ex) 완성해야 하는 이름이 세 글자면 AAA, 네 글자면 AAAA
 * name의 길이는 1 이상 20 이하입니다.
 
 ### 입출력 예
-n | lost |
+name | return |
 :---: | :---: |
 "JEROEN" | 56
 "JAN" | 23
