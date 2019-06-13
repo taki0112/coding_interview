@@ -14,6 +14,7 @@ Programmers coding practice in Korean (***2018.11.21*** ~ )
 * 이분탐색
 
 ### Senior
+* Will be soon
 
 ## Source
 * [프로그래머스](https://programmers.co.kr/learn/challenges)
