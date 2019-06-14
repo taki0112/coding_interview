@@ -1,5 +1,5 @@
-# coding_practice **(in progress)**
-Programmers coding practice in Korean (***2018.11.21*** ~ )
+# coding_interview **(in progress)**
+Programmers coding interview in Korean (***2018.11.21*** ~ )
 
 ## Problems
 ### Junior
