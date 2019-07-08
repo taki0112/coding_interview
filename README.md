@@ -16,7 +16,7 @@ Programmers coding interview in Korean (***2018.11.21*** ~ )
 ### Senior
 * Will be soon
 
-## Source
+## Reference
 * [프로그래머스](https://programmers.co.kr/learn/challenges)
 
 ## Author
