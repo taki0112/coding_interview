@@ -9,7 +9,7 @@ Programmers coding interview in Korean (***2018.11.21*** ~ )
 * [정렬](https://github.com/taki0112/coding_practice/tree/master/src/%EC%A0%95%EB%A0%AC) **(End)**
 * [완전탐색](https://github.com/taki0112/coding_practice/tree/master/src/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89) **(End)**
 * [탐욕법(Greedy)](https://github.com/taki0112/coding_practice/tree/master/src/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)) **(End)**
-* 동적계획법(Dynamic Programming)
+* [동적계획법(Dynamic Programming)](https://github.com/taki0112/coding_interview/tree/master/src/동적계획법(Dynamic%20Programming))
 * 깊이/너비 우선 탐색(DFS/BFS)
 * 이분탐색
 
