@@ -36,6 +36,6 @@ N | number | return |
 * 예제 2
   * `11 = 22 / 2`와 같이 2를 3번만 사용하여 표현할 수 있습니다.
 
-### [Code](https://github.com/taki0112/coding_interview/blob/master/src/동적계획법(Dynamic%20Programming)/Level_3_N으로%20표현.py) / [위로](#동적계획법(Dynamic Programming))
+### [Code](https://github.com/taki0112/coding_interview/blob/master/src/동적계획법(Dynamic%20Programming)/Level_3_N으로%20표현.py) / [위로](#동적계획법(Dynamic-Programming))
 
 ---
