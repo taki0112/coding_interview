@@ -18,8 +18,6 @@ Programmers coding interview in Korean (***2018.11.21*** ~ )
 
 ## Source
 * [프로그래머스](https://programmers.co.kr/learn/challenges)
-  * Python이외 `다른언어의 답`은 프로그래머스에서 확인하실 수 있습니다.
-  * 본 깃허브 코드로 정답을 제출하신 후, `다른사람의 풀이`를 보시면 됩니다.
 
 ## Author
 Junho Kim
